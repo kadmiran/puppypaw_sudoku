@@ -1,6 +1,6 @@
 # 🐾 PuppyPaw Sudoku - 개인정보 처리방침
 
-**마지막 업데이트:** 2024년 8월 1일  
+**마지막 업데이트:** 2025년 8월 1일  
 **버전:** 1.0.0
 
 ---
@@ -141,8 +141,8 @@ PuppyPaw Sudoku 앱은 다음과 같은 정보를 수집합니다:
 
 <div align="center">
 
-**© 2024 PuppyPaw Sudoku. All rights reserved.**
+**© 2025 PuppyPaw Sudoku. All rights reserved.**
 
-*마지막 업데이트: 2024년 8월 1일*
+*마지막 업데이트: 2025년 8월 1일*
 
 </div> 
