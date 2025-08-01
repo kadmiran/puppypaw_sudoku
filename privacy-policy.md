@@ -119,7 +119,7 @@ PuppyPaw Sudoku 앱은 다음과 같은 정보를 수집합니다:
 ### 📧 연락처
 개인정보 처리방침에 대한 문의사항이 있으시면 언제든지 연락해 주세요:
 
-- **이메일**: puppy.sudoku.app@gmail.com
+- **이메일**: puppypaw250801@gmail.com
 - **GitHub Issues**: [프로젝트 저장소](https://github.com/[사용자명]/[저장소명]/issues)에서 문의
 
 ### ⏰ 응답 시간
