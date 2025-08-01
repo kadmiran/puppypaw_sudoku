@@ -7,7 +7,7 @@
 
 ## 📧 문의 및 지원
 - **이메일**: puppypaw250801@gmail.com
-- **GitHub Issues**: https://github.com/[username]/puppy-sudoku-support/issues
+- **GitHub Issues**: https://github.com/kadmiran/puppypaw_sudoku/issues
 
 ## 🔒 개인정보처리방침
 
